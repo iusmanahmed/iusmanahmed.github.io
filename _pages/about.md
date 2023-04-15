@@ -50,12 +50,19 @@ My name is Usman Ahmed, an experienced data scientist and Senior Data Engineer w
   - Real-time data processing projects. 
   - **Projects:** [1](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.642347/full), and [2](https://link.springer.com/article/10.1007/s10922-021-09609-5).
 
-- **Highly scalable systems**
-  - Scalable video analytics tool.
-  - R-CNN, efficient object detection.
-  - Dynamic frame skipping, low-latency.
-  - Parallel processing, interdisciplinary collaboration.
-  - **Projects:** [1](https://www.sciencedirect.com/science/article/abs/pii/S2210670721008453), [2](https://ieeexplore.ieee.org/abstract/document/9908266), [3](https://www.sciencedirect.com/science/article/pii/S2210537922000245), [4](https://dl.acm.org/doi/abs/10
+**Highly scalable systems**
+- Scalable video analytics tool.
+- R-CNN, efficient object detection.
+- Dynamic frame skipping, low-latency.
+- Parallel processing, interdisciplinary collaboration.
+- **Projects:** [1](https://www.sciencedirect.com/science/article/abs/pii/S2210670721008453), [2](https://ieeexplore.ieee.org/abstract/document/9908266), [3](https://www.sciencedirect.com/science/article/pii/S2210537922000245), [4](https://dl.acm.org/doi/abs/10.1145/3543859), and [5](https://link.springer.com/article/10.1007/s11276-022-03076-9).
+
+**Collaborated with cross-functional teams**
+- Collaborated with researchers, experts including Norwegian companies [next green farming](https://www.nextgreenfarming.no/) and [TL Måkestad (TLM)](https://makestad.no/kontakt-oss/tl-makestad-as/).
+- Engaged stakeholders, cross-functional teams.
+- Developed algorithms, coordinated data, pipeline integration, and visualization.
+- **Research groups member:** [Intelligent Knowledge Engineering (IKE) lab](http://www.ikelab.net/), [HVL Data Science Group](https://www.hvl.no/en/research/group/data-science-group/), [Parallel Computing and Network Research Lab (PCN)](https://pcn.net.pk/), and [Artificial Intelligence and Computer Vision Lab (iVision)](https://ivisioneeist.wixsite.com/ivision).
+
 
 ## Research groups
 
