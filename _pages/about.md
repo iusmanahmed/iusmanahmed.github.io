@@ -20,8 +20,6 @@ In addition to my professional achievements, I am also passionate about mentorsh
 Thank you for visiting my website, and I look forward to connecting with you!
 
 ## Research Highlights:
-
-
 <div>
     <h3>Data pipeline workflows</h3>
     <ul>
