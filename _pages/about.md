@@ -9,10 +9,10 @@ redirect_from:
 ---
 
 <style>body {text-align: justify}</style>
-I am the last year PhD student in Computer science under the supervision of [Dr. Prof. Jerry Chun-Wei Lin (IET Fellow)](http://www.ikelab.net/about-pi-2/) at department of computer science, electrical engineering, and mathematical sciences, [Western Norway University of Applied Sciences, Bergen, Norway](https://www.hvl.no/person/?user=Usman.Ahmed). My general interests lie in **active learning, distributed optimization, and effective deep learning methods**. I concentrate on acquiring a foundational understanding of distributed and data driven modelling with their interactions with diverse sources of heterogeneity, including variations in the computational infrastructure and inconsistencies in training data. Motivated by these theoretical findings, my objective is to develop practical and efficient distributed and federated training algorithms.
+I am the last year PhD student in Computer science under the supervision of [Dr. Prof. Jerry Chun-Wei Lin (IET Fellow)](http://www.ikelab.net/about-pi-2/) at department of computer science, electrical engineering, and mathematical sciences, [Western Norway University of Applied Sciences, Bergen, Norway](https://www.hvl.no/person/?user=Usman.Ahmed). 
 
 
-<style>body {text-align: justify}</style> I am constantly on the lookout for potential collaborators. If any aspect of my research piques your interest, please don't hesitate to get in touch. This website serves as a platform to showcase my work, share my knowledge, and connect with like-minded professionals in the field of data science.
+<style>body {text-align: justify}</style> My general interests lie in **active learning, distributed optimization, and effective deep learning methods**. I concentrate on acquiring a foundational understanding of distributed and data driven modelling with their interactions with diverse sources of heterogeneity, including variations in the computational infrastructure and inconsistencies in training data. Motivated by these theoretical findings, my objective is to develop practical and efficient distributed and federated training algorithms. This website serves as a platform to showcase my work, share my knowledge, and connect with like-minded professionals in the field of data science.
 
 
 ## Latest News (All News):
