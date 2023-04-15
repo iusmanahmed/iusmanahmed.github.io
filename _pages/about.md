@@ -61,7 +61,6 @@ My name is Usman Ahmed, an experienced data scientist and Senior Data Engineer w
 - Collaborated with researchers, experts including Norwegian companies [next green farming](https://www.nextgreenfarming.no/) and [TL Måkestad (TLM)](https://makestad.no/kontakt-oss/tl-makestad-as/).
 - Engaged stakeholders, cross-functional teams.
 - Developed algorithms, coordinated data, pipeline integration, and visualization.
-- **Research groups member:** [Intelligent Knowledge Engineering (IKE) lab](http://www.ikelab.net/), [HVL Data Science Group](https://www.hvl.no/en/research/group/data-science-group/), [Parallel Computing and Network Research Lab (PCN)](https://pcn.net.pk/), and [Artificial Intelligence and Computer Vision Lab (iVision)](https://ivisioneeist.wixsite.com/ivision).
 
 
 ## Research groups
