@@ -1,5 +1,3 @@
-<meta name="google-site-verification" content="kwEBDeOltaBKdCi5FORyVB51mYj__N6G6_KE4SxcEiQ" />
-
 ---
 permalink: /
 title: "Usman ahmed"
