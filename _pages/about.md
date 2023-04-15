@@ -19,9 +19,11 @@ In addition to my professional achievements, I am also passionate about mentorsh
 
 Thank you for visiting my website, and I look forward to connecting with you!
 
-##Research Highlights:
+## Research Highlights:
+
+
 <div>
-    <h4>Data pipeline workflows</h4>
+    <h3>Data pipeline workflows</h3>
     <ul>
         <li>Large-scale data engineering pipeline. Taught <a href="https://www.hvl.no/studier/studieprogram/emne/dat107">DAT107</a> - Database course.</li>
         <li>SQL, NoSQL, ETL/ELT pipeline expertise.</li>
