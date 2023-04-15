@@ -15,6 +15,11 @@ This is Usmanahmed's personal homepage.
 <p style='text-align: justify;'>
 My name is Usman Ahmed, an experienced data scientist and Senior Data Engineer with a strong background in artificial intelligence, information technology, explainable machine learning, and cloud computing. This website serves as a platform to showcase my work, share my knowledge, and connect with like-minded professionals in the field of data science.</p>
 
+## Books 
+
+- **Book:** *Hands-on Exploratory Data Analysis with Python: Perform EDA Techniques to Understand, Summarize, and Investigate Your Data.* by Suresh Kumar Mukhiya and Usman Ahmed. Packt Publishing, 2020. [Link](https://www.researchgate.net/publication/340167229_Hands-On_Exploratory_Data_Analysis_with_Python)
+
+- **Book:** Data analytics, Python - Advanced Exploratory Data Analysis With Python - Under Publication, expected early 2023- Manning Publications Co. by Suresh Kumar Mukhiya and Usman Ahmed. 
 
 ## Research Highlights:
 - **Data pipeline workflows**
@@ -54,34 +59,36 @@ My name is Usman Ahmed, an experienced data scientist and Senior Data Engineer w
 
 ## Research groups
 
-- **Intelligent Knowledge Engineering (IKE) lab**
+
+
+
+
+
+
+
+- **[Intelligent Knowledge Engineering (IKE) lab](http://www.ikelab.net/)**
   - Duration: Oct 2019 - Current.
   - Led by Dr Prof. Jerry Chun-Wei Lin (IET Fellow).
   - Cooperated with many distinguished researchers from different (20+) countries.
   - Published more than 500+ peer-review papers regarding several major subjects, including data mining and pattern analytics, machine learning, optimization, AI, soft computing, fuzzy-set theory, privacy-preserving and security, and federated learning.
-  - Website: http://www.ikelab.net/
 
-- **HVL Data Science Group**
+- **[HVL Data Science Group](https://www.hvl.no/en/research/group/data-science-group/)**
   - Duration: Oct 2019 - Current.
   - Focused on theoretical data science applications for energy, biology, and physics.
   - Organizing workshops, seminars, conferences, meetings, and collaborations.
-  - Website: https://www.hvl.no/en/research/group/data-science-group/
 
-- **Artificial Intelligence and Computer Vision Lab (iVision)**
+- **[Artificial Intelligence and Computer Vision Lab (iVision)](https://ivisioneeist.wixsite.com/ivision)**
   - Duration: April 2019 - September 2019.
   - Established under the department of Electrical Engineering & Computer Science, Institute of Space Technology, Islamabad.
   - Hosts a friendly and research-intensive environment with a strong workplace culture and brings together researchers across the areas of computer vision, machine learning, and signal processing.
-  - Website: https://ivisioneeist.wixsite.com/ivision
 
-- **Parallel Computing and Network Research Lab (PCN)**
+- **[Parallel Computing and Network Research Lab (PCN)](https://pcn.net.pk/ )**
   - Duration: March 2016 - July 2018.
   - Includes various related aspects such as parallel & distributed computing, IP, wireless, ad-hoc networks.
   - Extended its scope to temporal information retrieval, social network analysis, and online privacy issues.
-  - Website: https://pcn.net.pk/ 
 
 
-## Selected Journal Publications
-## Selected publications
+## Selected Publications
 
 ### Journal
 - **Usman Ahmed**, Jerry Chun-Wei Lin, and Gautam Srivastava. ["Semisupervised Federated Learning for Temporal News Hyperpatism Detection."](https://doi.org/10.1109/TCSS.2023.3247602) IEEE Transactions on Computational Social Systems (2023). IF: **4.7**, JCR: **Q1**, and Norwegian ranking: **R1**.
