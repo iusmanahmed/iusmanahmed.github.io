@@ -13,7 +13,9 @@ This is Usmanahmed's personal homepage.
 ## A short introduction
 
 <p style='text-align: justify;'>
-My name is Usman Ahmed, an experienced data scientist and Senior Data Engineer with a strong background in artificial intelligence, information technology, explainable machine learning, and cloud computing. This website serves as a platform to showcase my work, share my knowledge, and connect with like-minded professionals in the field of data science.</p>
+I am the last year PhD student in Computer science under the supervision of [Dr. Prof. Jerry Chun-Wei Lin (IET Fellow)](http://www.ikelab.net/about-pi-2/). My research interest is mainly in Unsupervised domain adoptation, Adversarial learning, and Generative AI, in particular Active and Federated Learning. Regarding my research, I concentrate on acquiring a foundational understanding of distributed and federated training algorithms and their interactions with diverse sources of heterogeneity, including variations in the computational infrastructure and inconsistencies in training data. Motivated by these theoretical findings, my objective is to develop practical and efficient distributed and federated training algorithms.
+
+My general interests lie in federated learning, distributed optimization, and effective deep learning methods. I am constantly on the lookout for potential collaborators. If any aspect of my research piques your interest, please don't hesitate to get in touch. This website serves as a platform to showcase my work, share my knowledge, and connect with like-minded professionals in the field of data science.</p>
 
 ## Books 
 
