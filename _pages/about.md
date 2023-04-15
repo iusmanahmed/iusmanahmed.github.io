@@ -19,7 +19,7 @@ In addition to my professional achievements, I am also passionate about mentorsh
 
 Thank you for visiting my website, and I look forward to connecting with you!
 
-<b>Research Highlights:</b>
+##Research Highlights:
 <div>
     <h4>Data pipeline workflows</h4>
     <ul>
@@ -33,9 +33,10 @@ Thank you for visiting my website, and I look forward to connecting with you!
 
 
 ## Selected Journal Publications
-Journal Usman Ahmed, Jerry Chun-Wei Lin, and Gautam Srivastava. "Semisupervised Federated
+<b>[Journal]</b>  - Usman Ahmed, Jerry Chun-Wei Lin, and Gautam Srivastava. "Semisupervised Federated
 Learning for Temporal News Hyperpatism Detection." IEEE Transactions on Computational Social Systems (2023). IF: 4.7 , JCR: Q1, and Norwegian ranking: R1.
-Journal Usman Ahmed, Jerry Chun-Wei Lin, and Gautam Srivastava. "Social Media Multiaspect Detection by Using Unsupervised Deep Active Attention." IEEE Transactions on Computational
+
+<b>[Journal]</b>  - Usman Ahmed, Jerry Chun-Wei Lin, and Gautam Srivastava. "Social Media Multiaspect Detection by Using Unsupervised Deep Active Attention." IEEE Transactions on Computational
 
 ## For more information
-More info about Ze Jiang can be found in [CV](https://iusmanahmed.github.io/cv/) or [downloaded CV](http://iusmanahmed.github.io/files/Usman_Ahmed_CV.pdf).
+More info about Usman Ahmed can be found in [CV](https://iusmanahmed.github.io/cv/) or [downloaded CV](http://iusmanahmed.github.io/files/Usman_Ahmed_CV.pdf).
